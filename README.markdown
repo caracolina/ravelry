@@ -7,3 +7,4 @@ Then I added a gallery/slider (jquery plugin) of my finished projects in the bot
 Thanks for looking,
 
 Caroline
+07/25/2012
